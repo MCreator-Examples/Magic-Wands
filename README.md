@@ -22,7 +22,7 @@ Procedures have been built by NorthWestTrees Gaming.
     * Item Textures
 
 ## LATEST DOWNLOAD
-| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Grappling-Hook/files/7017794/grappling_hook_project_files.zip) | Download for 1.0.0 |
+| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Magic-Wands/files/7103349/magic_wands_project_files.zip) | Download for 1.0.0 |
 | --- | --- |
 
 ## TUTORIALS
