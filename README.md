@@ -1,3 +1,4 @@
+![Magic Wands & Brushes](https://i.imgur.com/CNu0Xcs.png)
 # MAGIC WANDS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -27,6 +28,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: Magic Wands & Brushes](https://youtu.be/7yDoEN-TNDs) - Published on 2021-09-03
-
-## GALLERY
-![Magic Wands & Brushes](https://i.imgur.com/CNu0Xcs.png)
